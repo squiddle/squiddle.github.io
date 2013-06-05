@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://squiddle.github.io/sitemap.xml 
